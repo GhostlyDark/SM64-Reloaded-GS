@@ -240,10 +240,10 @@
     "textureHeight": 32
   },
   "actors/impact_smoke/impact_smoke_3": {
-    "hash": "031a9de179e892e7bf579d336f1dc92e7c7247ac5a85f99e48592420d9f33d31",
+    "hash": "bfa0620f18ad6b37744e210724c9c7fec33eb739919f5c9bc04d50de755f80d6",
     "textureType": 9,
     "textureWidth": 64,
-    "textureHeight": 64
+    "textureHeight": 32
   },
   "levels/ending/cake_end_texture_40": {
     "hash": "c46104f9fda871f25b159b00e4b5de241b3ebba0acfe56673b40780cc5b40232",
@@ -2261,6 +2261,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "actors/impact_smoke/impact_smoke_7": {
+    "hash": "2a424a9c9f5f1bb89dc0d7ab7749105b5ea8b61ed58f0abcd80e071923b6bda6",
+    "textureType": 9,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "levels/lll/3": {
     "hash": "b8616a3ab9acba0cff1e3409015fa25ee71b8097f071ed8de2f3afefb5d057fe",
     "textureType": 2,
@@ -2699,14 +2705,14 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "actors/penguin/penguin_eye_closed": {
-    "hash": "1ee7f7d1845bf0a81386d6a4ea8d3ffed35bbcbdb31db0b0ee9633415af97162",
+  "textures/skyboxes/bidw/bidw.8": {
+    "hash": "8f319d859fa0aea4b803c1422d5e9b75d94ff624531692c14f0df9ebf41b1ef9",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "textures/skyboxes/bidw/bidw.8": {
-    "hash": "8f319d859fa0aea4b803c1422d5e9b75d94ff624531692c14f0df9ebf41b1ef9",
+  "actors/penguin/penguin_eye_closed": {
+    "hash": "1ee7f7d1845bf0a81386d6a4ea8d3ffed35bbcbdb31db0b0ee9633415af97162",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -4865,6 +4871,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "actors/impact_smoke/impact_smoke_5": {
+    "hash": "9e4c437a28a95848ce4748bc09c2ed312b5db9e3d425549f47eef76452c03bdb",
+    "textureType": 9,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "textures/segment2/segment2.05200": {
     "hash": "44c5cfa8444edf92b4be4776e19f7bf171a69a2b2c7d7e99a03e433d38520cd3",
     "textureType": 2,
@@ -5795,6 +5807,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "actors/impact_smoke/impact_smoke_4": {
+    "hash": "98e70836d5ec9651f682a0a601907c6334f7e2423e6d021d0182e9244f5bc022",
+    "textureType": 9,
+    "textureWidth": 64,
+    "textureHeight": 32
+  },
   "textures/skyboxes/bits/bits.23": {
     "hash": "d24ae9b69dfd6ea985fcb6c7854748de82111ea6e29593b493ef2d80b7aead8b",
     "textureType": 2,
@@ -6401,17 +6419,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "textures/segment2/segment2.07300": {
-    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "textureType": 10,
-    "textureWidth": 8,
-    "textureHeight": 16
-  },
   "textures/skyboxes/bidw/bidw.9": {
     "hash": "11b8c24705185516b4a40d984b0719b1d08ba42fcecf02358128328e0ebbf039",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "textures/segment2/segment2.07300": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "textureType": 10,
+    "textureWidth": 8,
+    "textureHeight": 16
   },
   "textures/skyboxes/cloud_floor/cloud_floor.29": {
     "hash": "23b46f95abdfa94cdeb69a310df481ca5772af212bac36c076b95c8cfe3f26eb",
@@ -6669,6 +6687,12 @@
     "hash": "9764092430a7effbed3eb3b4d395771b471b36b22699c4526d72b3333db24eaa",
     "textureType": 2,
     "textureWidth": 32,
+    "textureHeight": 32
+  },
+  "actors/impact_smoke/impact_smoke_6": {
+    "hash": "222ec5a43b244a4eed6296a92457f836104073af3c484de19defe9001e94bb8a",
+    "textureType": 9,
+    "textureWidth": 64,
     "textureHeight": 32
   },
   "textures/skyboxes/clouds/clouds.11": {
@@ -8946,10 +8970,10 @@
     "textureHeight": 32
   },
   "actors/impact_smoke/impact_smoke_0": {
-    "hash": "58e7b84b5c5112a0671e5c246ae9366c33cefd9bfa084585a45e39a0c643fea0",
+    "hash": "6e627b5734e5bc1e506e4ad59d65dd9d9c4fbb8449b78d1a7d63c6778a2045af",
     "textureType": 9,
     "textureWidth": 64,
-    "textureHeight": 64
+    "textureHeight": 32
   },
   "textures/segment2/segment2.072E0": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -9156,10 +9180,10 @@
     "textureHeight": 8
   },
   "actors/impact_smoke/impact_smoke_1": {
-    "hash": "52a969b059e5cfb3c947f3af10098a752f0dd8a6247ab200dfbe14e5c61c2f23",
+    "hash": "9c97160aabeecdefb141e19dda1cfa3b0e103ec1a28620c44e38bc52093e8394",
     "textureType": 9,
     "textureWidth": 64,
-    "textureHeight": 64
+    "textureHeight": 32
   },
   "levels/bowser_3/0": {
     "hash": "a0a86ba0afc9eafe9356a35b7127bb2ad3df23a692707e55d5f7680a010bebae",
@@ -11784,10 +11808,10 @@
     "textureHeight": 32
   },
   "actors/impact_smoke/impact_smoke_2": {
-    "hash": "bc06065f532efdcdbfbf3f256d24c068002da9172d7f8c94fa987b1aba38f384",
+    "hash": "5f7b31ee674463066b33681b8a2c6754a744a48a28cd50d9218c477b8063552a",
     "textureType": 9,
     "textureWidth": 64,
-    "textureHeight": 64
+    "textureHeight": 32
   },
   "textures/skyboxes/bitfs/bitfs.16": {
     "hash": "4f2db313823384bd2593e70ee1118fb7872289a5af39617930b13021bce03b27",
