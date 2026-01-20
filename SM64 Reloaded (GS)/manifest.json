@@ -65,6 +65,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.1": {
+    "hash": "20e350ab61651bce005e48b3f2d9d83ad089077c9fefafc5083ad2f617a0a0f3",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/segment2/segment2.03800": {
     "hash": "4cfdd85a55a27ad8ba070c9c0d7d860e1005bbd8a34ca87e6f7315a7b668a3b5",
     "textureType": 2,
@@ -113,17 +119,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.33": {
+    "hash": "575266c3ff12e700e909427280de3e7b65a36158c736800fde9947b1bab633a2",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/bitfs/bitfs.27": {
     "hash": "5be17aef4573239f9f5af03e8a59dda2d5e5fab12a53915e4746f92e6e72a298",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_22": {
-    "hash": "db7a87a452250e5733e3207ed01009cb04b4aa3ad4def38636949aff14885cad",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/ccm/ccm.20": {
     "hash": "3225d40d1241269da619b937164d03dd271a5cc54205dc4174d26bc4e7ca6932",
@@ -245,12 +251,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_40": {
-    "hash": "c46104f9fda871f25b159b00e4b5de241b3ebba0acfe56673b40780cc5b40232",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "actors/klepto/klepto_wing_flap": {
     "hash": "683d7f1ae90fdc21118d9ea0fc38ed7a68f5f082c0e8b44167287eba1da794f1",
     "textureType": 2,
@@ -335,17 +335,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.27": {
+    "hash": "139c10cb855d3ac3f5f24ac0b059c523a21c40e841856cb52b3e7cf5c4f1ca74",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/eyerok/eyerok_eye_mostly_closed": {
     "hash": "de1bfe3d9da92e7dd8b2cae425d4f6979fe5a70580e559ae10a511401894da5a",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_16": {
-    "hash": "ab5d8ea827c9f3a0d6b41f116260df3cbcfe8b66e9bb36cb6fee2cd41023b56e",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "actors/manta/manta_eye": {
     "hash": "5f90f5b27d7a5dd1f0f8efe39ebd0ef709de522c2660ead05b35f7632074f4e8",
@@ -364,12 +364,6 @@
     "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_37": {
-    "hash": "ac5c37f98029bc6e9f5503309683a6d323f1fb15ee55561b5d2a7a0dd8d451b0",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "actors/power_meter/power_meter_four_segments": {
     "hash": "ce70ff5e102dbea73cd22089e014fb38046c544cdf5377c89c994f01dd356ce8",
@@ -863,6 +857,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.30": {
+    "hash": "8b3ff22f35c3cc2d8f8b83a9ac735555834bd5a05549dc81be16b6627eb4791f",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/poundable_pole/poundable_pole_side": {
     "hash": "47166de265556e6e839311e2fc57946ef5e16ac7ab291dd46f16039eceef9954",
     "textureType": 2,
@@ -953,6 +953,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.15": {
+    "hash": "d5b9101415aad6d4bc6ba1e76732deeed507c2097e2f10886720f772ad61443f",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/mario_cap/mario_cap_wing": {
     "hash": "5ce2ce149b58d93bf6ef2ac01246ec8543f206c49bc8990457a61e3f00825b86",
     "textureType": 2,
@@ -1025,12 +1031,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_27": {
-    "hash": "139c10cb855d3ac3f5f24ac0b059c523a21c40e841856cb52b3e7cf5c4f1ca74",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/ipl3_raw/ipl3_font_12": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "textureType": 10,
@@ -1042,6 +1042,12 @@
     "textureType": 10,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "levels/ending/cake.26": {
+    "hash": "309a162d63b7c0fe7b5c785888befb9f010711fce1dcf9e19b6f9efa05f40330",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0B848": {
     "hash": "6bae88f84cda3f32df1100f745322a6d2411da4632124c9a7f408d3f46563e17",
@@ -1151,6 +1157,12 @@
     "textureWidth": 64,
     "textureHeight": 64
   },
+  "actors/wiggler/wiggler_nose_right_side": {
+    "hash": "d3679a0baca4661623d0bd4eba0b19db23be18963ebdc413c712cc5cdd7f9512",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "textures/skyboxes/bits/bits.50": {
     "hash": "d774eae50455755e481423ee908c489c3dc4ba5e53dad43dd800c740f5b7a128",
     "textureType": 2,
@@ -1217,12 +1229,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_4": {
-    "hash": "82d4b826a5872a1584087a7e6436740353307489390eb3d5594974aa45fa7213",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/cloud_floor/cloud_floor.37": {
     "hash": "bed157b7f61b85ae811f2bd90d45ea633ef8afbb89c376d3f19aab2c9728dddd",
     "textureType": 2,
@@ -1252,6 +1258,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.37": {
+    "hash": "ac5c37f98029bc6e9f5503309683a6d323f1fb15ee55561b5d2a7a0dd8d451b0",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/bits/bits.46": {
     "hash": "4ca5440180772a1ec4b9eced193c1477fabf4ad4158f7b62d69e6389ca4ed721",
@@ -1517,12 +1529,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_28": {
-    "hash": "13489b389e9fc18f46faa89c2b41c9686aba25ec4f7b72aef0fa43ceb9cdd0db",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/castle_inside/36": {
     "hash": "7115065ba80448c9360b6659a8304e7d505ed27be05187b774eb7749a453fd21",
     "textureType": 2,
@@ -1603,12 +1609,6 @@
   },
   "actors/yoshi_egg/yoshi_egg_3_unused": {
     "hash": "2e6194127418608a980876b35bb1a3ce51c0a35b12be7c1e62adf832c83d5a5a",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
-  "actors/wiggler_body/wiggler_flower": {
-    "hash": "f545a91daf9c535ca6a2edf58374efbd1744bf988dc7e6fb518c96ba844a186c",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -1888,12 +1888,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_12": {
-    "hash": "6c35cbde7f925dcf5066df976c2cd38b5553a2c829e8f89a56304e5e89053c48",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "levels/ssl/0": {
     "hash": "9051ec103438460582954f270b006343ac348ba678476707f95354ad3b604737",
@@ -2243,6 +2237,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.11": {
+    "hash": "62a6e0dcbaaea926a4e29314d0898f5edf867f33d832e25a688d500c91b5c422",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/bitfs/bitfs.44": {
     "hash": "a8a98054acc7c32e07e90f3bd460f9cdd2613419605401ff0097e186e9058f61",
     "textureType": 2,
@@ -2380,6 +2380,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.3": {
+    "hash": "ac84f32d2365cce739a063dc6fb44f004eb6664c45cd64a2bbb5668c1c420a19",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/mountain/ttm_textures.01800": {
     "hash": "46b0310cbd5028fe2e6e3a5627d454ba35e8082ad23d4d4bd0804562cc511357",
@@ -2627,12 +2633,6 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "levels/ending/cake_end_texture_31": {
-    "hash": "ed82a466a80059670e2cd4b3eef2c877717be6b3bbbf85e0bbf70b1d64b82675",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/title_screen_bg/title_screen_bg.04CC0": {
     "hash": "fc790a14e2e01eac9231602732aee1ee2d40c6878ac4de64ad00737cb1018816",
     "textureType": 2,
@@ -2824,12 +2824,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_45": {
-    "hash": "d8d54b40096898c2449b1570024ccc25b0fb5a450df5a3d8a35a3bdfd6b98d45",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/generic/bob_textures.01800": {
     "hash": "314cb78f657cc8ac16831a1132d865e8b67c2e469df2e6378bec202e48506619",
@@ -3149,12 +3143,6 @@
     "textureWidth": 32,
     "textureHeight": 16
   },
-  "levels/ending/cake_end_texture_34": {
-    "hash": "9ff54124dbbf6b8fabeca5431e825e75adad1270084f25e26d4fa9fe62e34bb4",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/ssl/ssl.56": {
     "hash": "310d7645312be69aa1f161c9248e1032975970ee8053c90940e52d4a31863e1d",
     "textureType": 2,
@@ -3250,6 +3238,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.2": {
+    "hash": "20e350ab61651bce005e48b3f2d9d83ad089077c9fefafc5083ad2f617a0a0f3",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/effect/lava_bubble.05020": {
     "hash": "5c1c17bd3ba99a86d25d57db7be532be791e2afcde49f5797ec0be28d909ea9b",
@@ -3359,6 +3353,12 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
+  "levels/ending/cake.16": {
+    "hash": "ab5d8ea827c9f3a0d6b41f116260df3cbcfe8b66e9bb36cb6fee2cd41023b56e",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "levels/menu/main_menu_seg7.03C68": {
     "hash": "8ea220ea73a0ea91ed0efabadc761b51f2f5951bf3368a3d7fd763e8b3a25c2f",
     "textureType": 2,
@@ -3394,6 +3394,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.4": {
+    "hash": "82d4b826a5872a1584087a7e6436740353307489390eb3d5594974aa45fa7213",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/wdw/wdw.23": {
     "hash": "4b364ade6a48cc5518efc4e97c0dcd90ae16ee09f7164059510d08aa478b08a0",
@@ -3484,6 +3490,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "actors/wiggler/wiggler_nose_left_side": {
+    "hash": "858b48f99af0090af1f3533050e1819a227ecb0f526f52647b8acde1714eed74",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
   },
   "textures/skyboxes/wdw/wdw.46": {
     "hash": "a10d86af47904220196730d6d79fac047f6d3e1cb249c74493321be1fffefeb2",
@@ -3785,12 +3797,6 @@
     "textureWidth": 80,
     "textureHeight": 20
   },
-  "levels/ending/cake_end_texture_10": {
-    "hash": "ac7e9fe39fd99f0bfe12dda4db3b432301d655944315416df3c544121cef01fa",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/menu/main_menu_seg7.0B5C0": {
     "hash": "fe8c0e6b2f388625dcf7cfc38fdf664c9dad0207e665e9a395788045ec9bb289",
     "textureType": 8,
@@ -3850,6 +3856,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 16
+  },
+  "levels/ending/cake.7": {
+    "hash": "9d90943fef61e15c3c54eaa86290538c15b95647c0bcff9f423d94e2bfe302d3",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/segment2/font_graphics.06F00": {
     "hash": "32552334a5f9dadbca7da5b32f9dd1d07c71c12299f84184458599192fb2c700",
@@ -3929,12 +3941,6 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "levels/ending/cake_end_texture_21": {
-    "hash": "69c142b40176a562db5b9974dc45fe763d3bb9990809222f7279acfa15eca4d7",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/cloud_floor/cloud_floor.32": {
     "hash": "cdaae4d54bbd2e79079a57890f376655a4e2799c20d7b41bef8a041356492ba3",
     "textureType": 2,
@@ -3965,12 +3971,6 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "levels/ending/cake_end_texture_17": {
-    "hash": "be103ba2aa0167b89047c385ea68ba919b10f9191b8e790ed27ca8dcab2e7692",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/snow/ccm_textures.02800": {
     "hash": "da5fb1d63937385276564c57e1f59c192c9105cdf8c54ddce70199331117dbba",
     "textureType": 2,
@@ -4000,6 +4000,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.28": {
+    "hash": "13489b389e9fc18f46faa89c2b41c9686aba25ec4f7b72aef0fa43ceb9cdd0db",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0C6C8": {
     "hash": "e2e33168159311206a05c798e0b21d4e5ac11f6c1194f858578785ccc3c23fe8",
@@ -4078,6 +4084,12 @@
     "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.23": {
+    "hash": "a5685600930a9f320cf6cfe45d96a05ab791e312facf094630506856e99c65a9",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "actors/lakitu_enemy/lakitu_enemy_shell": {
     "hash": "1fb802f374ea9b7d08c0a35ceadbb80b7e6ca2843b46ae2e18c3486bd3ab9bfc",
@@ -4162,12 +4174,6 @@
     "textureType": 10,
     "textureWidth": 8,
     "textureHeight": 16
-  },
-  "levels/ending/cake_end_texture_3": {
-    "hash": "ac84f32d2365cce739a063dc6fb44f004eb6664c45cd64a2bbb5668c1c420a19",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/segment2.074B0": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -4270,12 +4276,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_39": {
-    "hash": "4ccbe7ce6fa7828f56587dd03e66ee8f13c6e92694a3f7d54879d9c1a0eba39b",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/segment2.07910": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -4457,6 +4457,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.47": {
+    "hash": "c330aaea808bfbe555dfce3f5593f0182921a20263717a29808b97238b1915c4",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/ccm/ccm.61": {
     "hash": "4fdb4ba3262c140e2c647502f774f4a188a261830558157a4098b49a2dbe2e55",
     "textureType": 2,
@@ -4534,12 +4540,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_26": {
-    "hash": "309a162d63b7c0fe7b5c785888befb9f010711fce1dcf9e19b6f9efa05f40330",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/intro_raw/sparkle_3": {
     "hash": "454787085bb30992ea1770c1a7df4a8bb7f6c29f0c1826744c3cab9f35cb2a8b",
@@ -5075,18 +5075,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_44": {
-    "hash": "c330aaea808bfbe555dfce3f5593f0182921a20263717a29808b97238b1915c4",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
-  "levels/ending/cake_end_texture_38": {
-    "hash": "f0d3271ed59ac31de23cf07c8af898ab2660fb99dabf063503960ab474b4eabd",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/water/water.32": {
     "hash": "491dc7bd58c809841113b07a19196253eccbd1116e73ecb2da6f9f2861c6c400",
     "textureType": 2,
@@ -5104,6 +5092,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.12": {
+    "hash": "6c35cbde7f925dcf5066df976c2cd38b5553a2c829e8f89a56304e5e89053c48",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0CC48": {
     "hash": "35c59f8fdc2a4880b0bef03dfff76b6f27bcef4f82d0e0b64eb4f51c36ff7848",
@@ -5345,6 +5339,12 @@
     "textureWidth": 16,
     "textureHeight": 8
   },
+  "levels/ending/cake.43": {
+    "hash": "28666b54ed29fe2176b7d46076989da35e02cf8b13f88be9e616b1ee2584c5a8",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "levels/menu/main_menu_seg7.0B8C8": {
     "hash": "6c1f1ae8c5dd4243c860fb864f0ebba9e69deffad0e61d5f063daf4c6a00034e",
     "textureType": 8,
@@ -5513,6 +5513,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.38": {
+    "hash": "f0d3271ed59ac31de23cf07c8af898ab2660fb99dabf063503960ab474b4eabd",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/ssl/ssl.14": {
     "hash": "77ab4315d774202e9e60515b7acc787604eccfe2f9347a91ee1e469e1d808306",
     "textureType": 2,
@@ -5621,12 +5627,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_13": {
-    "hash": "beecf1ea2847f4dad244e2b990273ad1b8ce00c833399d4edcb70ddbe7cf901c",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/ipl3_raw/ipl3_font_20": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "textureType": 10,
@@ -5692,12 +5692,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_2": {
-    "hash": "20e350ab61651bce005e48b3f2d9d83ad089077c9fefafc5083ad2f617a0a0f3",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/font_graphics.06580": {
     "hash": "be82bd2d29f315383079494e9b3ad8a82c3f190638beacae90ba16e95d9c6d2a",
@@ -5993,6 +5987,12 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
+  "levels/ending/cake.22": {
+    "hash": "db7a87a452250e5733e3207ed01009cb04b4aa3ad4def38636949aff14885cad",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/bits/bits.53": {
     "hash": "5340c050437dfa691c05567d81d74a2782fcef3b915798f11c1a78d406241951",
     "textureType": 2,
@@ -6131,17 +6131,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.40": {
+    "hash": "c46104f9fda871f25b159b00e4b5de241b3ebba0acfe56673b40780cc5b40232",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/mario_cap/mario_cap_metal": {
     "hash": "9fd53cbfe8ac46f652adf582d407ff99c760ec7e6316f5f131948ebbbb2581aa",
     "textureType": 2,
     "textureWidth": 64,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_7": {
-    "hash": "9d90943fef61e15c3c54eaa86290538c15b95647c0bcff9f423d94e2bfe302d3",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/segment2.07D50": {
     "hash": "7090698c09ba881bf3711069e20649dce4e3c539323d85ae4cc612230201659e",
@@ -6875,12 +6875,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_6": {
-    "hash": "a09f88ac4b7a0a61136de0755a48329cff0fbbd9f83faf1b04aa3a9fff5b8070",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/lll/15": {
     "hash": "fb8ad776a7851c35ddf0c63eca10c15dd617e7c45dfce51b9eaf1fdb4768c1c5",
     "textureType": 2,
@@ -6946,6 +6940,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "levels/ending/cake.24": {
+    "hash": "a5c7764f0d094c9282e0b3d8af0cd85cb7167d6fd29fba14171a0079da06c9c1",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/clouds/clouds.4": {
     "hash": "8581cc4e630edc705292bec87b9a132dbf4cd0b4b74c73dcbb329a89dd31c9f2",
@@ -7103,12 +7103,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_0": {
-    "hash": "fea2580b3d6c377d152c1fed679a46a166dd9de72515d2f4fde5af1146e18487",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/menu/main_menu_seg7.0B140": {
     "hash": "6a5f602826bb4a51a4c5f47e7574e23165f7746494146042aeb0fd786437259a",
     "textureType": 8,
@@ -7210,12 +7204,6 @@
     "textureType": 10,
     "textureWidth": 13,
     "textureHeight": 14
-  },
-  "levels/ending/cake_end_texture_18": {
-    "hash": "f7ee2fef290add6d3b7e38a9601781d62b7a9c3fcfb2b699921722a477d78f98",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/grass/wf_textures.00800": {
     "hash": "afa3befb4cd4cc1d8a03bf4403850ecc8728a5b95fa678521c9f75eb18c5644b",
@@ -7361,12 +7349,6 @@
     "textureWidth": 16,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_14": {
-    "hash": "2660a221387ff94133f7b2f2251edaa85ca68d58fa939cb958369a732173e24a",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/ssl/9": {
     "hash": "f2ab99200033439d4fe2cfec6ab6dee3b51356b6917558edd4f8dcb6a1e7acf3",
     "textureType": 2,
@@ -7396,12 +7378,6 @@
     "textureType": 9,
     "textureWidth": 16,
     "textureHeight": 16
-  },
-  "levels/ending/cake_end_texture_24": {
-    "hash": "a5c7764f0d094c9282e0b3d8af0cd85cb7167d6fd29fba14171a0079da06c9c1",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/cloud_floor/cloud_floor.35": {
     "hash": "f90b6cac7b17a872ac468643c09820db99f3232f07de0a74129b58f1480a8199",
@@ -7486,6 +7462,12 @@
     "textureType": 2,
     "textureWidth": 16,
     "textureHeight": 16
+  },
+  "levels/ending/cake.8": {
+    "hash": "5f58ef1a2621e11e3a5959d82c5a78d2a6c165c7f37091eb78ec8a0b46b04bad",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/cloud_floor/cloud_floor.40": {
     "hash": "86e26e8212a375d9ac5490048cfefedd13351360d7e318f742c6027ffdaa9f16",
@@ -7643,12 +7625,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_32": {
-    "hash": "957eaf65500ee30f679870739bdef637eb6190cd43d370443c898b4bcff78d23",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "actors/bully/bully_right_side": {
     "hash": "f14e0ed33a583c69a4d5c71160a8a7214ac55a4088e3db10336f46852252bcbf",
     "textureType": 2,
@@ -7720,6 +7696,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.20": {
+    "hash": "c25d734f519350750e98034c3abfaa8c8cabb4c2f45d6d923adea7a92ae57693",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0C708": {
     "hash": "1173d524fc948050d83c6ade4c51b6fbade44818fc78eb650603e03b0568afe7",
@@ -7895,6 +7877,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.17": {
+    "hash": "be103ba2aa0167b89047c385ea68ba919b10f9191b8e790ed27ca8dcab2e7692",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/segment2/segment2.06B00": {
     "hash": "768d80217e95f4b92ec4df541a9bbac0383609f7fe592b437b454fbc42afdea3",
     "textureType": 2,
@@ -7979,6 +7967,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.31": {
+    "hash": "ed82a466a80059670e2cd4b3eef2c877717be6b3bbbf85e0bbf70b1d64b82675",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/cloud_floor/cloud_floor.62": {
     "hash": "dc389b33b57a14482ffb3b86949d4c9ef1ef795bc62e179f7674f1afafcad992",
     "textureType": 2,
@@ -8027,12 +8021,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "actors/wiggler_body/wiggler_frown": {
-    "hash": "15871cdd9d6c5d6cbfd26c36ef2db63f093739aa8a9857aa6101f3f14b3a07f4",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "textures/sky/rr_textures.01000": {
     "hash": "3ad73e9eb3e4fa6cee5a8d724d0350e58f2dbdea3051326a22533ce64582adaa",
     "textureType": 2,
@@ -8050,6 +8038,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.45": {
+    "hash": "d8d54b40096898c2449b1570024ccc25b0fb5a450df5a3d8a35a3bdfd6b98d45",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "actors/penguin/penguin_eye_half_closed": {
     "hash": "a3198fe852ee16866051751223e1adbc5d6ed8dc1f46b3bdc0f9eb6ec89d3537",
@@ -8159,17 +8153,17 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.44": {
+    "hash": "c330aaea808bfbe555dfce3f5593f0182921a20263717a29808b97238b1915c4",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/swoop/swoop_nose": {
     "hash": "3d890f2cad30bb2d25af0abfe0ce6eb48ac8798fe5126db78c955879febc5415",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_33": {
-    "hash": "575266c3ff12e700e909427280de3e7b65a36158c736800fde9947b1bab633a2",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/segment2.00000": {
     "hash": "63bd60e0b47e65d0f61554bb572be7a3ab5a1580af86864de1bdaa172f114738",
@@ -8308,12 +8302,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_25": {
-    "hash": "da169aaac5e33816cd1b4fbbb9aa9b2cb054ee18045df09647d497d7505ef4f4",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/font_graphics.06D80": {
     "hash": "dd4ca9e7c9b2a9d097f0fdb28c2246f492e90be1e9aab8a56fd64bf702db7200",
@@ -8549,6 +8537,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "actors/wiggler/wiggler_frown": {
+    "hash": "15871cdd9d6c5d6cbfd26c36ef2db63f093739aa8a9857aa6101f3f14b3a07f4",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "actors/mad_piano/mad_piano_keys": {
     "hash": "d7a3080c86864418a99a8f4141df679deab6806085cf2cb5c19c3ea26ba94d9f",
     "textureType": 2,
@@ -8560,12 +8554,6 @@
     "textureType": 10,
     "textureWidth": 13,
     "textureHeight": 14
-  },
-  "levels/ending/cake_end_texture_1": {
-    "hash": "20e350ab61651bce005e48b3f2d9d83ad089077c9fefafc5083ad2f617a0a0f3",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "actors/toad/toad_face": {
     "hash": "8d632ad8ffe85998492d67f2baef97f86f867f8aca793e740f09de9bc56c67a0",
@@ -8849,12 +8837,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_47": {
-    "hash": "c330aaea808bfbe555dfce3f5593f0182921a20263717a29808b97238b1915c4",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/ssl/ssl.54": {
     "hash": "d5392f19e7cba1648c074ca22f1c9016c1531f2407e1167418688c52341baefe",
     "textureType": 2,
@@ -8944,6 +8926,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.41": {
+    "hash": "0362c37d7520405c7fb42d9687df991325f615e28a3eb6f406ffbeb0a0ef5803",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/bbh/5": {
     "hash": "7738643c23120240d63f0185b198eb90c3e9a7b791ab053555a250f38f297c3a",
@@ -9221,6 +9209,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.35": {
+    "hash": "18c1780cce300d91b1c77726b0d6f5d875c39ef5b5c867ffaa22680023666e0b",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/koopa/koopa_eyes_open": {
     "hash": "c1fc48cbea155dba94adec4554e585849c3de7aef7578dfb161580ef05aa8de1",
     "textureType": 2,
@@ -9293,12 +9287,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "actors/wiggler_body/wiggler_nose_right_side": {
-    "hash": "d3679a0baca4661623d0bd4eba0b19db23be18963ebdc413c712cc5cdd7f9512",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "actors/smoke/smoke": {
     "hash": "2d3f8fe44d1c1d879b11c272d651a7f704b1adbee0f4220a5ebd1013797b3b6c",
     "textureType": 9,
@@ -9340,12 +9328,6 @@
     "textureType": 7,
     "textureWidth": 16,
     "textureHeight": 8
-  },
-  "levels/ending/cake_end_texture_20": {
-    "hash": "c25d734f519350750e98034c3abfaa8c8cabb4c2f45d6d923adea7a92ae57693",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/bbh/bbh.23": {
     "hash": "cf84c4a1eac2c2bc982afe12110faf1b355bede1250fb71fd702344eeea8b903",
@@ -9443,12 +9425,6 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
-  "levels/ending/cake_end_texture_41": {
-    "hash": "0362c37d7520405c7fb42d9687df991325f615e28a3eb6f406ffbeb0a0ef5803",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/ipl3_raw/ipl3_font_39": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "textureType": 10,
@@ -9490,6 +9466,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.34": {
+    "hash": "9ff54124dbbf6b8fabeca5431e825e75adad1270084f25e26d4fa9fe62e34bb4",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.089D0": {
     "hash": "420223f54db1176ba9c4a17e8559c6f8c5c80f59653383bb434d438de8b659e6",
@@ -9550,6 +9532,12 @@
     "textureType": 10,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "actors/wiggler/wiggler_flower": {
+    "hash": "f545a91daf9c535ca6a2edf58374efbd1744bf988dc7e6fb518c96ba844a186c",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
   },
   "textures/segment2/font_graphics.05D80": {
     "hash": "717779f58111ef90f0fd8ea5c29baae695ea7fab81a2691703337e0f373712c2",
@@ -9677,12 +9665,6 @@
     "textureWidth": 32,
     "textureHeight": 64
   },
-  "levels/ending/cake_end_texture_35": {
-    "hash": "18c1780cce300d91b1c77726b0d6f5d875c39ef5b5c867ffaa22680023666e0b",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/water/water.42": {
     "hash": "f1a0342e97fd8f4a9dbce81371e321b30bb7a44c11b082b800a2f942c3178294",
     "textureType": 2,
@@ -9712,6 +9694,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
+  },
+  "levels/ending/cake.13": {
+    "hash": "beecf1ea2847f4dad244e2b990273ad1b8ce00c833399d4edcb70ddbe7cf901c",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.00018": {
     "hash": "7006375a2ca79469e6cffbb2ab23b6fc5b90ae5c0656a454fdd740697fb34030",
@@ -9863,12 +9851,6 @@
     "textureWidth": 64,
     "textureHeight": 32
   },
-  "actors/wiggler_body/wiggler_segment_left_side": {
-    "hash": "bf3646cc7ed307261975594a14c948d9f08e7240fa46672aca0db371fa6e7305",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "levels/cotmc/4": {
     "hash": "6fbbeff89b80b5c55d9c15e71fb7ace9939bc7c5eb818ec95c669588b0539da5",
     "textureType": 2,
@@ -9887,24 +9869,6 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
-  "actors/wiggler_body/wiggler_segment_right_side": {
-    "hash": "f52644640a809290a92a17c938d94d5137497e2a5a9000160995a405416b6989",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_19": {
-    "hash": "dc9fcc8d4d046569469f178b0e05d8012f7a982f0dbd3d62e64ae4547fedab7b",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
-  "levels/ending/cake_end_texture_5": {
-    "hash": "695a5690e47e14531eefdb952a64a003f62be7a51b498052941378168f8b1cc0",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "textures/skyboxes/water/water.7": {
     "hash": "be5074ac03d803a47c994c736b6ca3404a11670c131371ea94f5941bbbe88a63",
     "textureType": 2,
@@ -9916,6 +9880,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.21": {
+    "hash": "69c142b40176a562db5b9974dc45fe763d3bb9990809222f7279acfa15eca4d7",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/bbh/bbh.40": {
     "hash": "49f6f3b193a6626271e0306b5ebcf262395b61eaadd0deeb20dfe7aba9fa1f27",
@@ -10139,6 +10109,12 @@
     "textureWidth": 16,
     "textureHeight": 8
   },
+  "levels/ending/cake.39": {
+    "hash": "4ccbe7ce6fa7828f56587dd03e66ee8f13c6e92694a3f7d54879d9c1a0eba39b",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/water/water.23": {
     "hash": "c183770a46d98425b609b5fe93d258126ac25a3c7b75e5518e11df8b2265b51c",
     "textureType": 2,
@@ -10151,23 +10127,11 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
-  "actors/wiggler_body/wiggler_nose_left_side": {
-    "hash": "858b48f99af0090af1f3533050e1819a227ecb0f526f52647b8acde1714eed74",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 64
-  },
   "textures/cave/hmc_textures.0C000": {
     "hash": "26bacffdf26fa3e45fae6ee678b5422b36679e5ca02ba5da5d47ae040473cf3c",
     "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_8": {
-    "hash": "5f58ef1a2621e11e3a5959d82c5a78d2a6c165c7f37091eb78ec8a0b46b04bad",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "actors/mario/mario_eyes_closed": {
     "hash": "6818bd49bb7ee12c8f954002158d7f2b8bd7b50beca433fdb05aee6722e30425",
@@ -10295,6 +10259,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "actors/wiggler/wiggler_eye": {
+    "hash": "52b9dc9cef9cefbde532ea8dd72b8329001ad6ec533f93bfa90a759aee7837c8",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 32
+  },
   "textures/segment2/font_graphics.06AC0": {
     "hash": "08a927e079e746f8814e0454468e442a7b9cff7082dc09b32454f446b54c58b4",
     "textureType": 7,
@@ -10360,12 +10330,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_43": {
-    "hash": "28666b54ed29fe2176b7d46076989da35e02cf8b13f88be9e616b1ee2584c5a8",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/ssl/ssl.34": {
     "hash": "f864d6f351452aed5f6850bc76fcb2d13a5596691282cf46e8e572959b8b53cc",
@@ -10859,6 +10823,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.18": {
+    "hash": "f7ee2fef290add6d3b7e38a9601781d62b7a9c3fcfb2b699921722a477d78f98",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/skyboxes/cloud_floor/cloud_floor.38": {
     "hash": "29bc6e4778f84155a20aadacf7404195719c415929de2d69ee818f7df46b0ebe",
     "textureType": 2,
@@ -10870,12 +10840,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_36": {
-    "hash": "cd54535722141a52f7dfdfb4cd9062d496ddcbb8cc401367cc41a8668c8ff4d4",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "actors/tree/tree_right_side": {
     "hash": "3648f970c88ed30fb3903d6359f873430a34b20f88b896c987e8026aacd7f3ec",
@@ -10906,6 +10870,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.32": {
+    "hash": "957eaf65500ee30f679870739bdef637eb6190cd43d370443c898b4bcff78d23",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "actors/toad/toad_head": {
     "hash": "00948091cd73dade931eca0334527315c8a2015e4eea80e44fd45e976f95ee37",
@@ -11123,12 +11093,6 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
-  "levels/ending/cake_end_texture_46": {
-    "hash": "6d824157b330642f91f9400c0b2148144b73ea64dde3c8ea767db3de65accd46",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/wmotr/0": {
     "hash": "a98619794ca500b71f83b240ebec21fdd17c36f76c982fe2f80be891296d76c0",
     "textureType": 2,
@@ -11176,6 +11140,12 @@
     "textureType": 8,
     "textureWidth": 8,
     "textureHeight": 8
+  },
+  "levels/ending/cake.46": {
+    "hash": "6d824157b330642f91f9400c0b2148144b73ea64dde3c8ea767db3de65accd46",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/segment2/segment2.07860": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -11273,6 +11243,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "actors/wiggler/wiggler_segment_right_side": {
+    "hash": "f52644640a809290a92a17c938d94d5137497e2a5a9000160995a405416b6989",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "levels/sl/0": {
     "hash": "3aaede10c9a6f214bdd0268bd5ec5209b72d048f8ace7c3cef1b1326e3251411",
     "textureType": 2,
@@ -11327,6 +11303,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.6": {
+    "hash": "a09f88ac4b7a0a61136de0755a48329cff0fbbd9f83faf1b04aa3a9fff5b8070",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/segment2/font_graphics.06A00": {
     "hash": "90981af76120071ce7c84ef54ddcffd6f6898e73d426b50ebe8d7bfb1e7f0b1d",
     "textureType": 7,
@@ -11345,12 +11327,6 @@
     "textureWidth": 8,
     "textureHeight": 16
   },
-  "levels/ending/cake_end_texture_23": {
-    "hash": "a5685600930a9f320cf6cfe45d96a05ab791e312facf094630506856e99c65a9",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
-  },
   "levels/menu/main_menu_seg7.083D0": {
     "hash": "8c053be40b44d449662e3fd322a4ae52eb6d2a79922d26c434917e6a9b6cc03a",
     "textureType": 2,
@@ -11362,12 +11338,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
-  },
-  "levels/ending/cake_end_texture_15": {
-    "hash": "d5b9101415aad6d4bc6ba1e76732deeed507c2097e2f10886720f772ad61443f",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/snow/ccm_textures.03000": {
     "hash": "ed7516e65e4c2fd9079971e87a3babc32721f3a60f75ca0d93c7d1bc6da96a73",
@@ -11681,6 +11651,12 @@
     "textureWidth": 16,
     "textureHeight": 16
   },
+  "levels/ending/cake.5": {
+    "hash": "695a5690e47e14531eefdb952a64a003f62be7a51b498052941378168f8b1cc0",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "levels/menu/main_menu_seg7.03468": {
     "hash": "c568db7abdbaacc7618750c88c16f555130bfb57b499ca1d61a357a5238162b2",
     "textureType": 2,
@@ -11951,6 +11927,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.25": {
+    "hash": "da169aaac5e33816cd1b4fbbb9aa9b2cb054ee18045df09647d497d7505ef4f4",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/machine/ttc_textures.03000": {
     "hash": "d9c537ed8470e94f7b84bb6d0be063dceac8dc8f7a7af51b8bae02c795a66055",
     "textureType": 2,
@@ -12203,6 +12185,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "levels/ending/cake.42": {
+    "hash": "4f8ed6cbbc9864ec0fc91034a0f7ab7554bc54c5461d6de1ae76a8ce1306d28f",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "actors/power_meter/power_meter_three_segments": {
     "hash": "1e1760382aa48796ecbc208f1e2a039bcfe562f3dea0876197d011c0e2be02a6",
     "textureType": 2,
@@ -12220,12 +12208,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_9": {
-    "hash": "acd8b5d9500f1f8ebb12386296ccee1226c375ef87540b21bb61efe9ea290e72",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/bits/bits.44": {
     "hash": "39d8b9543347c6e2e0881fc780b83d7b198ce736dea2ea61d0818e377e3c4a44",
@@ -12280,12 +12262,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_30": {
-    "hash": "8b3ff22f35c3cc2d8f8b83a9ac735555834bd5a05549dc81be16b6627eb4791f",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "levels/castle_inside/20": {
     "hash": "b6193038a9610feffd1109d6983d9747ca0a1bd2f882958260301b6dda6a910a",
@@ -12587,12 +12563,6 @@
     "textureWidth": 13,
     "textureHeight": 14
   },
-  "actors/wiggler_body/wiggler_eye": {
-    "hash": "52b9dc9cef9cefbde532ea8dd72b8329001ad6ec533f93bfa90a759aee7837c8",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
-  },
   "levels/menu/main_menu_seg7.091D0": {
     "hash": "356bb3db2e7149e974be7bbccd52c3d956b923f27979fbe85cbef4bc4a3d3d72",
     "textureType": 2,
@@ -12815,6 +12785,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.0": {
+    "hash": "fea2580b3d6c377d152c1fed679a46a166dd9de72515d2f4fde5af1146e18487",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "levels/pss/2": {
     "hash": "cc278b711edb2cb8f7953622dd438673c5cbdd0d4efe5c848c0e9e306d7f489b",
     "textureType": 2,
@@ -12832,6 +12808,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.29": {
+    "hash": "9c26e7068c68157fbdcc3de9af49e371d75ac4e0351fa2ec8c10e01bcf939675",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/generic/bob_textures.09000": {
     "hash": "1adef3dab38006f88335977486e4694bce00af7fa5860c6a7d7bc24ff7d23abf",
@@ -12851,6 +12833,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.14": {
+    "hash": "2660a221387ff94133f7b2f2251edaa85ca68d58fa939cb958369a732173e24a",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/segment2/segment2.072D0": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "textureType": 10,
@@ -12868,12 +12856,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_42": {
-    "hash": "4f8ed6cbbc9864ec0fc91034a0f7ab7554bc54c5461d6de1ae76a8ce1306d28f",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/segment2/segment2.07350": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -12904,6 +12886,12 @@
     "textureType": 10,
     "textureWidth": 8,
     "textureHeight": 16
+  },
+  "levels/ending/cake.19": {
+    "hash": "dc9fcc8d4d046569469f178b0e05d8012f7a982f0dbd3d62e64ae4547fedab7b",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0B340": {
     "hash": "7727a13e7bcb6572340e0de9ff068fc35f4ff9ebb4b33c8ce7bd4d941eeef17f",
@@ -12940,6 +12928,12 @@
     "textureType": 9,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.10": {
+    "hash": "ac7e9fe39fd99f0bfe12dda4db3b432301d655944315416df3c544121cef01fa",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/skyboxes/bidw/bidw.0": {
     "hash": "349bee3e90abc5d47db1cb974c45f37c429038ddfb9d8aa305052bf5efa8af5d",
@@ -13001,6 +12995,12 @@
     "textureWidth": 32,
     "textureHeight": 32
   },
+  "levels/ending/cake.9": {
+    "hash": "acd8b5d9500f1f8ebb12386296ccee1226c375ef87540b21bb61efe9ea290e72",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
+  },
   "textures/generic/bob_textures.04800": {
     "hash": "8b02980dcf0c19b3c37abfbb6a89f98ea8da8cdd00dc2c13665f84819a37142d",
     "textureType": 2,
@@ -13012,12 +13012,6 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
-  },
-  "levels/ending/cake_end_texture_29": {
-    "hash": "9c26e7068c68157fbdcc3de9af49e371d75ac4e0351fa2ec8c10e01bcf939675",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "textures/skyboxes/cloud_floor/cloud_floor.33": {
     "hash": "80c58af7c47a27e2f442500403fb1b47f6839a5492b6a266427c9348de1bbb37",
@@ -13097,6 +13091,12 @@
     "textureWidth": 8,
     "textureHeight": 8
   },
+  "actors/wiggler/wiggler_segment_left_side": {
+    "hash": "bf3646cc7ed307261975594a14c948d9f08e7240fa46672aca0db371fa6e7305",
+    "textureType": 2,
+    "textureWidth": 32,
+    "textureHeight": 64
+  },
   "textures/skyboxes/bits/bits.5": {
     "hash": "d2d7dee45058892a631c21c0679e45f0da3392eb83abb5260e5a80ed86aa6e44",
     "textureType": 2,
@@ -13168,12 +13168,6 @@
     "textureType": 10,
     "textureWidth": 13,
     "textureHeight": 14
-  },
-  "levels/ending/cake_end_texture_11": {
-    "hash": "62a6e0dcbaaea926a4e29314d0898f5edf867f33d832e25a688d500c91b5c422",
-    "textureType": 2,
-    "textureWidth": 80,
-    "textureHeight": 20
   },
   "levels/menu/main_menu_seg7.0AD80": {
     "hash": "422639a83d73aa042bc5aa44f56e6ac436f18c1c0df6153a6e2aab594dc2548a",
@@ -13294,6 +13288,12 @@
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
+  },
+  "levels/ending/cake.36": {
+    "hash": "cd54535722141a52f7dfdfb4cd9062d496ddcbb8cc401367cc41a8668c8ff4d4",
+    "textureType": 2,
+    "textureWidth": 80,
+    "textureHeight": 20
   },
   "textures/segment2/segment2.03600": {
     "hash": "aceb6cc0b8e601387ccdf8329ee220365925c7b7205b1100232ad2a8b64b700e",
