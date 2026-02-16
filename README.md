@@ -1,3 +1,5 @@
+**Development has moved to:** https://github.com/GhostlyDark/SM64-Reloaded
+
 # SM64 Reloaded (GS)
 SM64 Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/SM64-Reloaded), [Dolphin](https://github.com/GhostlyDark/SM64-Reloaded-Dolphin), [sm64pc](https://github.com/GhostlyDark/SM64-Reloaded-PC) and Ghostship.
 
